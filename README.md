@@ -1,4 +1,4 @@
-# 200-ai-prompts-for-kite-crypto-opportunity
+# 200 AI Prompts for Kite Crypto Opportunity
 
 Revolutionize your crypto trading strategy with this curated list of 200 unique and valuable prompts specifically tailored to the Kite crypto opportunity niche! Our AI-powered prompts are designed to 
 
@@ -6,7 +6,7 @@ Revolutionize your crypto trading strategy with this curated list of 200 unique 
 
 | Property | Value |
 |---|---|
-| Records | 3 |
+| Records | 1 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,7 @@ Revolutionize your crypto trading strategy with this curated list of 200 unique 
 ## Sample
 
 ```json
-Keys: title, description, price
+"..."
 ```
 
 ## Usage
